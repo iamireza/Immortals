@@ -243,7 +243,7 @@ proxies:
   - {"name":"🇭🇰۝HK۝⟮iMmortals⟯۝256","type":"vmess","server":"8.210.122.46","port":443,"cipher":"auto","uuid":"cad2f27c-fa48-4d1a-e060-e55966f3b606","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
   - {"name":"🇭🇰۝HK۝⟮iMmortals⟯۝257","type":"trojan","server":"sky998dmit3.xyz","port":443,"udp":true,"password":"RRy34GGwsPt47SuC","skip-cert-verify":true,"network":"tcp"}
 proxy-groups:
-  - name: ⚡test 〄 Ꮮᝪᑎᑌᑭ
+  - name: ⚡Test 〄 Amir
     type: url-test
     interval: 300
     tolerance: 500
@@ -469,7 +469,7 @@ proxy-groups:
     proxies:
       - DIRECT
       - REJECT
-      - ⚡test 〄 Ꮮᝪᑎᑌᑭ
+      - ⚡Test 〄 Amir
       - 🇭🇷۝HR۝⟮iMmortals⟯۝1
       - 🇪🇬۝EG۝⟮iMmortals⟯۝2
       - 🇺🇸۝US۝⟮iMmortals⟯۝3
